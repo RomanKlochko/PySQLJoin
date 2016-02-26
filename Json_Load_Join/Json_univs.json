@@ -1,0 +1,76 @@
+{ "universities":[{
+    "id": 1,
+    "name": "KPI",
+    "rating": 1257,
+    "city": "Kiev"
+}, {
+    "id": 2,
+    "name": "KNU",
+    "rating": 608,
+    "city": "Kiev"
+}, {
+    "id": 3,
+    "name": "LPU",
+    "rating": 593,
+    "city": "Lviv"
+}, {
+    "id": 4,
+    "name": "KMA",
+    "rating": 588,
+    "city": "Kiev"
+}, {
+    "id": 5,
+    "name": "LGU",
+    "rating": 556,
+    "city": "Lviv"
+}, {
+    "id": 6,
+    "name": "HAI",
+    "rating": 534,
+    "city": "Kharkiv"
+}, {
+    "id": 7,
+    "name": "DPI",
+    "rating": 529,
+    "city": "Dnepr"
+}, {
+    "id": 8,
+    "name": "DNTU",
+    "rating": 501,
+    "city": "Doneck"
+}, {
+    "id": 9,
+    "name": "HNADU",
+    "rating": 500,
+    "city": "Kharkiv"
+}, {
+    "id": 10,
+    "name": "ONPU",
+    "rating": 496,
+    "city": "Odessa"
+}, {
+    "id": 11,
+    "name": "KNUSA",
+    "rating": 483,
+    "city": "Kiev"
+}, {
+    "id": 12,
+    "name": "TNTU",
+    "rating": 441,
+    "city": "Ternopol"
+}, {
+    "id": 13,
+    "name": "ZDIA",
+    "rating": 427,
+    "city": "Zaporogie"
+}, {
+    "id": 14,
+    "name": "BNAU",
+    "rating": 399,
+    "city": "Belaya Cerkov"
+}, {
+    "id": 15,
+    "name": "HSHA",
+    "rating": 45,
+    "city": "Herson"
+}]}

@@ -1,0 +1,451 @@
+{ "students":[{
+	"id": 1,
+	"surname": "Kabanov",
+	"name": "Vitalij",
+	"gender": "m",
+	"stipend": 550.00,
+	"course": 4,
+	"city": "Kharkiv",
+	"birthday": "1990-11-30T22:00Z",
+	"univ_id": 2
+}, {
+	"id": 2,
+	"surname": "Pavlenko",
+	"name": "Igor",
+	"gender": "m",
+	"stipend": 600.00,
+	"course": 1,
+	"city": "Kiev",
+	"birthday": "1993-06-20T21:00Z",
+	"univ_id": 5
+}, {
+	"id": 3,
+	"surname": "Ciljyrik",
+	"name": "Timofej",
+	"gender": "m",
+	"stipend": 600.00,
+	"course": 4,
+	"city": "Herson",
+	"birthday": "1990-11-04T22:00Z",
+	"univ_id": 3
+}, {
+	"id": 4,
+	"surname": "Kozmenko",
+	"name": "Ignat",
+	"gender": "m",
+	"stipend": 500.00,
+	"course": 1,
+	"city": "Kiev",
+	"birthday": "1994-04-25T21:00Z",
+	"univ_id": 6
+}, {
+	"id": 5,
+	"surname": "Orienko",
+	"name": "Anatolij",
+	"gender": "m",
+	"stipend": 450.00,
+	"course": 4,
+	"city": "Lviv",
+	"birthday": "1990-09-07T21:00Z",
+	"univ_id": 4
+}, {
+	"id": 6,
+	"surname": "Berezovskiy",
+	"name": "Roman",
+	"gender": "m",
+	"stipend": 750.00,
+	"course": 2,
+	"city": "Kiev",
+	"birthday": "1992-03-08T22:00Z",
+	"univ_id": 1
+}, {
+	"id": 7,
+	"surname": "Pimenchyk",
+	"name": "Dmitrij",
+	"gender": "m",
+	"stipend": 800.00,
+	"course": 1,
+	"city": "Kharkiv",
+	"birthday": "1992-11-19T22:00Z",
+	"univ_id": 2
+}, {
+	"id": 8,
+	"surname": "Shust",
+	"name": "Marina",
+	"gender": "f",
+	"stipend": 750.00,
+	"course": 1,
+	"city": "Herson",
+	"birthday": "1993-04-20T21:00Z",
+	"univ_id": 3
+}, {
+	"id": 9,
+	"surname": "Pechalnova",
+	"name": "Alina",
+	"gender": "f",
+	"stipend": 500.00,
+	"course": 2,
+	"city": "Kiev",
+	"birthday": "1993-02-24T22:00Z",
+	"univ_id": 6
+}, {
+	"id": 10,
+	"surname": "Denisenko",
+	"name": "Mark",
+	"gender": "m",
+	"stipend": 500.00,
+	"course": 3,
+	"city": "Kiev",
+	"birthday": "1993-06-06T21:00Z",
+	"univ_id": 1
+}, {
+	"id": 11,
+	"surname": "Korsunskaja",
+	"name": "Vera",
+	"gender": "f",
+	"stipend": 650.00,
+	"course": 2,
+	"city": "Rovno",
+	"birthday": "1992-07-10T21:00Z",
+	"univ_id": "null"
+}, {
+	"id": 12,
+	"surname": "Chajka",
+	"name": "Olga",
+	"gender": "f",
+	"stipend": 550.00,
+	"course": 5,
+	"city": "Kiev",
+	"birthday": "1990-12-29T22:00Z",
+	"univ_id": 5
+}, {
+	"id": 13,
+	"surname": "Kogyshko",
+	"name": "Kristina",
+	"gender": "f",
+	"stipend": 650.00,
+	"course": 3,
+	"city": "Lviv",
+	"birthday": "1991-03-17T22:00Z",
+	"univ_id": 4
+}, {
+	"id": 14,
+	"surname": "Fedoseeva",
+	"name": "Nina",
+	"gender": "f",
+	"stipend": 750.00,
+	"course": 2,
+	"city": "Dnepr",
+	"birthday": "1992-05-21T21:00Z",
+	"univ_id": 7
+}, {
+	"id": 15,
+	"surname": "Tarara",
+	"name": "Leonid",
+	"gender": "m",
+	"stipend": 900.00,
+	"course": 4,
+	"city": "Kiev",
+	"birthday": "1991-05-03T21:00Z",
+	"univ_id": 6
+}, {
+	"id": 16,
+	"surname": "Zemljanij",
+	"name": "Danil",
+	"gender": "m",
+	"stipend": 550.00,
+	"course": 5,
+	"city": "Lviv",
+	"birthday": "1988-03-05T22:00Z",
+	"univ_id": 4
+}, {
+	"id": 17,
+	"surname": "Osipykov",
+	"name": "Vitalij",
+	"gender": "m",
+	"stipend": 500.00,
+	"course": 1,
+	"city": "Dnepr",
+	"birthday": "1993-08-09T21:00Z",
+	"univ_id": 7
+}, {
+	"id": 18,
+	"surname": "Zevcov",
+	"name": "Andrej",
+	"gender": "m",
+	"stipend": 650.00,
+	"course": 3,
+	"city": "Lviv",
+	"birthday": "1991-10-23T22:00Z",
+	"univ_id": 4
+}, {
+	"id": 19,
+	"surname": "Borodjyk",
+	"name": "Nikita",
+	"gender": "m",
+	"stipend": 650.00,
+	"course": 2,
+	"city": "Kiev",
+	"birthday": "1990-08-29T21:00Z",
+	"univ_id": 6
+}, {
+	"id": 20,
+	"surname": "Milanivskaja",
+	"name": "Olga",
+	"gender": "f",
+	"stipend": 750.00,
+	"course": 5,
+	"city": "Kiev",
+	"birthday": "1989-10-21T22:00Z",
+	"univ_id": 5
+}, {
+	"id": 21,
+	"surname": "Zaporogec",
+	"name": "Vladimir",
+	"gender": "m",
+	"stipend": 750.00,
+	"course": 5,
+	"city": "Lviv",
+	"birthday": "null",
+	"univ_id": 5
+}, {
+	"id": 22,
+	"surname": "Saenko",
+	"name": "Sergej",
+	"gender": "m",
+	"stipend": 950.00,
+	"course": 1,
+	"city": "Poltava",
+	"birthday": "1993-04-16T21:00Z",
+	"univ_id": 9
+}, {
+	"id": 23,
+	"surname": "Kovalenko",
+	"name": "Dmitrij",
+	"gender": "m",
+	"stipend": 650.00,
+	"course": 1,
+	"city": "Hmelnickiy",
+	"birthday": "1993-07-27T21:00Z",
+	"univ_id": 7
+}, {
+	"id": 24,
+	"surname": "Maryga",
+	"name": "Olga",
+	"gender": "f",
+	"stipend": 850.00,
+	"course": 4,
+	"city": "Sevastopol",
+	"birthday": "1990-08-02T21:00Z",
+	"univ_id": 4
+}, {
+	"id": 25,
+	"surname": "Mihajlovskaja",
+	"name": "Svetlana",
+	"gender": "f",
+	"stipend": 600.00,
+	"course": 2,
+	"city": "Vinnica",
+	"birthday": "1992-11-17T22:00Z",
+	"univ_id": 13
+}, {
+	"id": 26,
+	"surname": "Korablev",
+	"name": "Stanislav",
+	"gender": "m",
+	"stipend": 750.00,
+	"course": 2,
+	"city": "Gorlovka",
+	"birthday": "1992-05-03T21:00Z",
+	"univ_id": 12
+}, {
+	"id": 27,
+	"surname": "Borodavko",
+	"name": "Mihail",
+	"gender": "m",
+	"stipend": 750.00,
+	"course": 5,
+	"city": "Kremenchyg",
+	"birthday": "1989-01-02T22:00Z",
+	"univ_id": 2
+}, {
+	"id": 28,
+	"surname": "Litvin",
+	"name": "Oleg",
+	"gender": "m",
+	"stipend": 450.00,
+	"course": 3,
+	"city": "Rovno",
+	"birthday": "1991-06-09T21:00Z",
+	"univ_id": 14
+}, {
+	"id": 29,
+	"surname": "Zavakevich",
+	"name": "Vasilij",
+	"gender": "m",
+	"stipend": 800.00,
+	"course": 4,
+	"city": "Mariupol",
+	"birthday": "1990-11-12T22:00Z",
+	"univ_id": 1
+}, {
+	"id": 30,
+	"surname": "Zabila",
+	"name": "Aleksej",
+	"gender": "m",
+	"stipend": 450.00,
+	"course": 3,
+	"city": "Kiev",
+	"birthday": "1991-06-20T21:00Z",
+	"univ_id": 13
+}, {
+	"id": 31,
+	"surname": "Zalueva",
+	"name": "Fatima",
+	"gender": "f",
+	"stipend": 650.00,
+	"course": 4,
+	"city": "Gorlovka",
+	"birthday": "1990-05-17T21:00Z",
+	"univ_id": 3
+}, {
+	"id": 32,
+	"surname": "Mironenko",
+	"name": "Evgenij",
+	"gender": "m",
+	"stipend": 450.00,
+	"course": 2,
+	"city": "Belaja Cerkov",
+	"birthday": "1992-08-31T21:00Z",
+	"univ_id": 14
+}, {
+	"id": 33,
+	"surname": "Shelest",
+	"name": "Yurij",
+	"gender": "m",
+	"stipend": 450.00,
+	"course": 2,
+	"city": "Kiev",
+	"birthday": "1992-11-07T22:00Z",
+	"univ_id": 4
+}, {
+	"id": 34,
+	"surname": "Sabatovskaja",
+	"name": "Irina",
+	"gender": "f",
+	"stipend": 650.00,
+	"course": 4,
+	"city": "Odessa",
+	"birthday": "1990-02-13T22:00Z",
+	"univ_id": 11
+}, {
+	"id": 35,
+	"surname": "Remezov",
+	"name": "Trofim",
+	"gender": "m",
+	"stipend": 600.00,
+	"course": 3,
+	"city": "Kiev",
+	"birthday": "1991-07-23T21:00Z",
+	"univ_id": 8
+}, {
+	"id": 36,
+	"surname": "Vinnik",
+	"name": "Artyr",
+	"gender": "m",
+	"stipend": 500.00,
+	"course": 4,
+	"city": "Ivano-Frankovsk",
+	"birthday": "1990-03-03T22:00Z",
+	"univ_id": 8
+}, {
+	"id": 37,
+	"surname": "Zaporogets",
+	"name": "Vitalij",
+	"gender": "m",
+	"stipend": 350.00,
+	"course": 5,
+	"city": "Luck",
+	"birthday": "1989-02-27T22:00Z",
+	"univ_id": 13
+}, {
+	"id": 38,
+	"surname": "Natalich",
+	"name": "Vadim",
+	"gender": "m",
+	"stipend": 600.00,
+	"course": 3,
+	"city": "Makeevka",
+	"birthday": "1991-05-08T21:00Z",
+	"univ_id": 6
+}, {
+	"id": 39,
+	"surname": "Bogackij",
+	"name": "Dmitrij",
+	"gender": "m",
+	"stipend": 350.00,
+	"course": 5,
+	"city": "Chernovci",
+	"birthday": "1989-10-11T22:00Z",
+	"univ_id": 12
+}, {
+	"id": 40,
+	"surname": "Kot",
+	"name": "Ekaterina",
+	"gender": "f",
+	"stipend": 700.00,
+	"course": 3,
+	"city": "Kiev",
+	"birthday": "1991-04-04T21:00Z",
+	"univ_id": 14
+}, {
+	"id": 41,
+	"surname": "Denisjyk",
+	"name": "Danil",
+	"gender": "m",
+	"stipend": 350.00,
+	"course": 4,
+	"city": "Herson",
+	"birthday": "1990-01-25T22:00Z",
+	"univ_id": 2
+}, {
+	"id": 42,
+	"surname": "Gladkij",
+	"name": "Denis",
+	"gender": "m",
+	"stipend": 450.00,
+	"course": 4,
+	"city": "Rovno",
+	"birthday": "1990-12-19T22:00Z",
+	"univ_id": 13
+}, {
+	"id": 43,
+	"surname": "Rybcova",
+	"name": "Evgenia",
+	"gender": "f",
+	"stipend": 600.00,
+	"course": 3,
+	"city": "Doneck",
+	"birthday": "1991-10-09T22:00Z",
+	"univ_id": 11
+}, {
+	"id": 44,
+	"surname": "Guzenko",
+	"name": "Aleksandra",
+	"gender": "f",
+	"stipend": 500.00,
+	"course": 1,
+	"city": "Rovno",
+	"birthday": "1993-11-08T22:00Z",
+	"univ_id": 8
+}, {
+	"id": 45,
+	"surname": "Rydavskij",
+	"name": "Igor",
+	"gender": "m",
+	"stipend": 500.00,
+	"course": 4,
+	"city": "Vinnica",
+	"birthday": "1990-10-22T22:00Z",
+	"univ_id": 2
+}]}

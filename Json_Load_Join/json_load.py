@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 # Сделать выборку студентов по названию университета из внешних Json файлов: students и universities.
-# Json файлы оформлены в виде списка.
 
 import time
 start = time.clock()
